@@ -1,0 +1,11 @@
+C:\Users\oussa\source\repos\minifier\minifier\bin\Debug\minifier.exe.config
+C:\Users\oussa\source\repos\minifier\minifier\bin\Debug\minifier.exe
+C:\Users\oussa\source\repos\minifier\minifier\bin\Debug\minifier.pdb
+C:\Users\oussa\source\repos\minifier\minifier\bin\Debug\minifier.xml
+C:\Users\oussa\source\repos\minifier\minifier\obj\Debug\minifier.vbprojAssemblyReference.cache
+C:\Users\oussa\source\repos\minifier\minifier\obj\Debug\minifier.Resources.resources
+C:\Users\oussa\source\repos\minifier\minifier\obj\Debug\minifier.vbproj.GenerateResource.cache
+C:\Users\oussa\source\repos\minifier\minifier\obj\Debug\minifier.vbproj.CoreCompileInputs.cache
+C:\Users\oussa\source\repos\minifier\minifier\obj\Debug\minifier.exe
+C:\Users\oussa\source\repos\minifier\minifier\obj\Debug\minifier.xml
+C:\Users\oussa\source\repos\minifier\minifier\obj\Debug\minifier.pdb
