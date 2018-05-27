@@ -1,5 +1,4 @@
 <h1 align="center">Minifier</h1>
----
 
 ## Description
 This is a very lightweight and simple application that runs on the command prompt, used to quickly minify files, be it random text or important piece of code, this tool got you covered.
